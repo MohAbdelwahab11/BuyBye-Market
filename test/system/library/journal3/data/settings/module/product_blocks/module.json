@@ -1,8 +1,0 @@
-{
-  "width": {
-    "type": "Select",
-    "value": "100",
-    "selector": ".grid-item-%s-%s-%s-%s",
-    "property": "width: %s%"
-  }
-}

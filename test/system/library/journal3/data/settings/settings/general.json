@@ -1,7 +1,0 @@
-{
-  "adminBar": {
-    "type": "Toggle",
-    "value": "false",
-    "php": true
-  }
-}
